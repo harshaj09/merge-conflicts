@@ -1,3 +1,5 @@
 FROM
+CMD
+USER
 ENV
 ARG
