@@ -1,1 +1,3 @@
 FROM
+ADD
+COPY
